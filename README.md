@@ -1,3 +1,7 @@
+#### Build of version 0.2.2
+This is a clone of https://github.com/tdharris/obsidian-code-block-copy (which is equal to pull request 13 in the original repo: https://github.com/jdbrice/obsidian-code-block-copy/pull/13 ), without any changes. I only created a [release to build 0.2.2](https://github.com/notDavid/obsidian-code-block-copy/releases).
+
+
 # Code block copy Obsidian Plugin
 A plugin for [Obsidian](https://obsidian.md) that provides copy buttons on code blocks in preview.
 
@@ -5,7 +9,6 @@ A plugin for [Obsidian](https://obsidian.md) that provides copy buttons on code 
 Shown along with the "Editor Syntax Highlight" and "Calendar" plugins.
 
 This plugin adds a copy button to the top right of code blocks in preview mode.
-
 
 ### Compatibility
 
